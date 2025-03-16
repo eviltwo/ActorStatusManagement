@@ -1,0 +1,18 @@
+{
+    "name": "ActorStatusManagement.Tests",
+    "rootNamespace": "ActorStatusManagement.Tests",
+    "references": [
+        "GUID:f640ab80d50b55047ad84cad79cb1841"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

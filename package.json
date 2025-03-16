@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.actor-status-management",
+    "displayName": "Actor Status Management",
+    "version": "0.0.1",
+    "unity": "6000.0",
+    "description": "Actor Status Management",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
